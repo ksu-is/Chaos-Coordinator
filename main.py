@@ -1,12 +1,17 @@
 # Base code found at: https://github.com/ksu-is/assignment_tracker/blob/main/main.py
+# delete tkcalender as had issues importing it to my program, but may add back in future updates
+from tkinter import *
 
-from tkcalendar import *
+
 from tkinter import ttk
 from tkinter import messagebox
 from datetime import date
+# delete panoxyl as had issues importing it to my program, but may add back in future updates
 import pandas as pd
 import os
-import openpyxl
+
+# plan to look over the code more in depth to make it more personalized and user-friendly, but this is a good starting point to build off of for now
+
 
 # compile user's courses into a list to use as drop-down box in assignment information form
 def courses_list(new_entry):
