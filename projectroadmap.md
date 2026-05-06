@@ -5,11 +5,11 @@
 - [x] Research tutorials for things I want to add
 - [x] Find tutorials to add what I want on my project
 - [x] Make adjustments to my project description based off what I find, and what I consider to be feasible.
-- [] Breakdown work into sprints
-- [] First sprint plan is to build window and form window
-- [] Second sprint is to connect to my google calender instead of exel like in reference code
-- [] Find videos that can substitute the exel part on the code and change it to google calender
-- [] Add any links used or tuturials found to README.md file
-- [] Review second sprint and make adjustments needed for sprint three
-- [] Finish sprint 3
-- [] Make changed to code that is needed, and change decription if final project is changed.
+- [x] Breakdown work into sprints
+- [x] First sprint plan is to build window and form window
+- [x] Second sprint is to connect to my google calender instead of exel like in reference code
+- [x] Find videos that can substitute the exel part on the code and change it to google calender
+- [x] Add any links used or tuturials found to README.md file
+- [x] Review second sprint and make adjustments needed for sprint three
+- [x] Finish sprint 3
+- [x] Make changed to code that is needed, and change decription if final project is changed.
